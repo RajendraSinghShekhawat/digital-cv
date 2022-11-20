@@ -61,7 +61,7 @@
 
 .accordion .handle label:before {
   font-family: 'fontawesome';
-  content: "->";
+  content: "";
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
@@ -73,5 +73,10 @@
 
 .accordion > input[type="checkbox"]:checked ~ .handle label:before {
   content: "\f078";
+}
+
+.accordion p{
+  line-height: 0.5;
+  font-size: 0.9em;
 }
 
