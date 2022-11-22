@@ -61,7 +61,7 @@
 
 .accordion .handle label:before {
   font-family: 'fontawesome';
-  content: "";
+  content: "\f054"; 
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
@@ -80,3 +80,32 @@
   font-size: 0.9em;
 }
 
+
+.bg-blue1{
+    background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 35%, rgba(216,232,250,1) 100%);
+}
+.bg-red1{
+    background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 36%, rgba(250,216,218,1) 100%);
+}
+.bg-green1{
+    background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 36%, rgba(240,250,216,1) 100%);
+}
+.bg-yellow1{
+    background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 36%, rgba(249,250,216,1) 100%);
+}
+.bg-purple{
+    background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 36%, rgba(235,216,250,1) 100%);
+}
+.bg-blue2{
+    background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 36%, rgba(216,221,250,1) 100%);
+}
+.bg-orange1{
+    background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 36%, rgba(250,239,216,1) 100%);
+}
