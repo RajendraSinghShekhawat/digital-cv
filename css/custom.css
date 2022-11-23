@@ -39,7 +39,6 @@
 .accordion .handle {
   margin: 0;
   font-size: 1.125em;
-  line-height: 1.2em;
 }
 
 .accordion label {
@@ -76,7 +75,6 @@
 }
 
 .accordion p{
-  line-height: 1;
   font-size: 0.9em;
 }
 
@@ -109,3 +107,24 @@
     background: rgb(255,255,255);
 	background: radial-gradient(circle, rgba(255,255,255,1) 36%, rgba(250,239,216,1) 100%);
 }
+
+/*
+@media (max-width: 554px) {
+  .accordion p{
+  line-height: 0.9;
+  font-size: 0.8em;
+  }
+  .accordion label{
+  line-height: 1;
+  font-size: 0.8em;
+  }
+  .tm-section-wrap p{
+  line-height: 1.2;
+  font-size: 0.8em;
+  }
+  .tm-section-wrap h2{
+  line-height: 1.5;
+  font-size: 0.9em;
+  }
+}
+*/
