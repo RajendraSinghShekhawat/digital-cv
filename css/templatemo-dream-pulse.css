@@ -19,6 +19,10 @@ h2 {
   font-size: 2rem;
 }
 
+p{
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 a {
   transition: all 0.3s ease;
