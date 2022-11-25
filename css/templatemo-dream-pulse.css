@@ -53,7 +53,7 @@ a {
 .tm-intro {
   max-width: 1200px;
   width: 100%;
-  padding: 55px;
+  padding: 5%;
   margin-right: 0;
   margin-left: auto;
   background-color: rgba(255, 255, 255, 0.75);
@@ -73,7 +73,7 @@ a {
   align-items: center;
   height: auto;
   max-width: 1275px;
-  padding: 66px 60px;
+  padding: 5%;
 }
 
 #intro {
